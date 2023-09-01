@@ -2,7 +2,7 @@
 <p align="center"><img src="./media/logo.png"></p>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg"/></a>
+  <a href="https://github.com/nitinajay9298/awesome"><img alt="awesome" src="https://awesome.re/badge.svg"/></a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
 </p>
 
